@@ -49,6 +49,3 @@ print("Number of words in the file = {}".format(num_words))
 
 ## Result :
 The program to find the word count is successfully completed
-
-## RESULT:
-Thus the program is written to find the word count from a text.
